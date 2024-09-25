@@ -35,7 +35,7 @@ For å kjøre dette prosjektet lokalt:
 
 Slik ser applikasjonen ut når en karakter blir funnet:
 
-![Harry Potter Characters](https://via.placeholder.com/300)
+![Harry Potter Characters](./images/eksempelt.png)
 
 ## Farger brukt
 
